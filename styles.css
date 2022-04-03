@@ -1,0 +1,109 @@
+h1{
+    color: #bbd48e;
+    margin: 0px auto -10px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.86rem;
+    font-weight: normal;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #803f19;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;  
+    color: #F4FCD9;
+}
+
+p{
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+body{
+    background-color: #F4FCD9;
+    margin: auto;
+    text-align: center;
+    font-size: 2em;
+}
+
+.footer-link{
+    color: #534340;
+    margin: auto 0.5%;
+    padding: 15px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #C5D8A4;
+}
+
+/* class styles */
+.top-container{
+    background-color: azure;
+    margin: 0px;
+}
+
+.middle-container{
+    background-color: #C5D8A4;
+    align-items: center;
+    margin: 0px;
+}
+
+.bottom-container{
+    background-color: #BB9981;
+    padding-top: 0.5%;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+}
+
+.profile{
+    padding: 20px ;
+}
+
+
+.pro{
+    font-style: italic;
+    color: #a14e1d;
+}
+
+/* images */
+#top-cloud{
+    position: relative;
+    margin: 50px 0px 20px 500px;
+}
+
+#bottom-cloud{
+    position: absolute;
+    margin: 20px 0px 0px 20px;
+}
+
+#mountain{
+    position: relative;
+    margin-bottom: -0.5%;    
+}
+
+.gamingpc{
+    float: left;
+    margin-right: 50px;
+}
+
+.thomyorke{
+    float: right;
+    margin-left: 50px;
+}
+
+#jonah-gif{
+    position: absolute;
+    margin: 10px;
+    width: 100px;
+    height: 70px;
+}
