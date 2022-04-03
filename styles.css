@@ -65,6 +65,12 @@ a:hover{
     text-align: left;
 }
 
+.skill-row-two{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: right;
+}   skill-row-two
+
 .profile{
     padding: 20px ;
 }
